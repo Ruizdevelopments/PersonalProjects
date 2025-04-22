@@ -1,0 +1,4 @@
+--- Personal Expense Summary ---
+1. 2025-04-10 | Rent - $755.00 | Wildcat Canyon Village
+
+Total Expenses: $755.00
